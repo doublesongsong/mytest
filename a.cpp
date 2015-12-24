@@ -21,7 +21,6 @@ using namespace std;
 
 int main()
 {
-	//freopen("data.in","r",stdin);
 	printf("Hello world!\n");
 	return 0;
 }
