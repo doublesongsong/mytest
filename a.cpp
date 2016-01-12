@@ -21,7 +21,7 @@ using namespace std;
 
 int main()
 {
-	printf("Hello world! yes\n");
+	printf("Hello world! no\n");
 	printf("%d\n", 'a');
     return 0;
 }
